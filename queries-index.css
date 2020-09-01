@@ -1,0 +1,269 @@
+/* Large devices (desktops, less than 1200px)*/
+@media (max-width: 1199.98px) { ... }
+
+
+/* Medium devices (tablets, less than 992px)*/
+@media (max-width: 991.98px) { ... }
+
+/* Small devices (landscape phones, less than 768px)*/
+@media (max-width: 768px) { 
+
+     .tail-tours-about {padding: 20px 10px;}
+	
+    #slogan-home {
+	top: 40%;
+	left: 25%;	
+	font-size: 25px;
+   }
+	
+   .featured-tours {
+	   text-align: center;
+	   height: 200vh;
+	}
+	
+   .featured-tours-header {
+   position: relative;
+   left: 0%;	
+  }
+	#adventure-slogan {
+	margin-left: 0px;
+	left: 0%;
+  }
+	
+  .vic-falls-feature {
+	float: none;
+	padding: 30px;
+	width: 100%;
+   }	
+	
+  .zambia-feature {
+	float: none;
+	padding: 20px;
+	width: 100%;
+  }
+ .feature-name h3 {font-size: 30px;}
+ 
+ .description {height: 6%; }	
+	
+ .more-tours-button {
+	position: relative;
+	left: 35%;
+}	
+	footer ul {text-align: center;}
+	footer ul li a {margin: 0 30px;}
+
+}
+
+}
+
+/*Extra small devices (portrait phones, less than 576px)*/
+
+@media (max-width: 576px) { 
+	*{
+		border: ;
+	}
+	
+	.tail-tours-about {padding: 20px 10px;}
+	
+    #slogan-home {
+	top: 40%;
+	left: 25%;	
+	font-size: 25px;
+   }
+	
+   .featured-tours {
+	   text-align: center;
+	   height: 140vh;
+	}
+	
+   .featured-tours-header {
+   position: relative;
+   left: 0%;	
+  }
+	#adventure-slogan {
+	margin-left: 0px;
+	left: 0%;
+  }
+	
+  .vic-falls-feature {
+	float: none;
+	padding: 30px;
+	width: 100%;
+   }	
+	
+  .zambia-feature {
+	float: none;
+	padding: 20px;
+	width: 100%;
+  }
+ .feature-name h3 {font-size: 30px;}
+ 
+ .description {height: 6%; }	
+	
+ .more-tours-button {
+	position: relative;
+	left: 35%;
+}	
+	footer ul {text-align: center;}
+	footer ul li a {margin: 0 30px;}
+
+}
+
+
+/*Extra small devices (portrait phones, less than 480px)*/
+
+@media (max-width: 480px) { 
+	
+	
+	#land-page {
+	background-image: none;
+	background-color: #DFDCE3;	
+	
+}
+    #slogan-home {
+	color: black;
+	top: 40%;
+	width: 100%;	
+	text-align: center;	
+	left: 0%;	
+	font-size: 20px;
+   }
+	
+	.about{height: 60vh}
+	
+	.tail-tours-about-script {padding: 20px 30px; }
+	
+	.featured-tours { height: 150vh}
+	
+	.featured-heading  {display: none}
+	
+	.featured-heading-2 {
+		display: block;
+		letter-spacing: 2px;
+	}
+	
+	.slogan {
+	color: #F7B733;
+	font-size: 12px;
+	letter-spacing: 1px;
+	}
+	
+	.feature-query {	
+	float: none;
+	padding: 10px 10px;	
+	width: 100%;
+   }
+	.zambia-feature {margin-top: 40px;}
+	
+	
+	.more-tours-button {
+	left: 30%;	
+	padding: 10px 20px;
+	margin-top: 30px;
+	width: 120px;
+    font-size: 13px;
+    border-width: 0px 0px 0px 0px;
+    border-radius: 0px 0px 0px 0px;	
+    
+   }
+	
+	.zim-button{display: none}
+	
+  footer ul {text-align: center;}
+	footer ul li a {margin: 0 10px;}
+}
+
+
+/*Extra small devices (portrait phones, less than 360px)*/
+
+
+@media (max-width: 360px) { 
+	
+	#land-page {
+	background-image: none;
+	background-color: #DFDCE3;	
+	
+}
+	
+	#slogan-home {
+	top: 40%;
+	width: 100%;	
+	text-align: center;	
+	left: 0%;	
+	font-size: 20px;
+   }
+	
+	.about {height: 60vh;}
+	
+	.featured{margin-top: 0px}
+	
+	.tail-tours-about {
+		padding: 0px 0px;
+		position: relative;
+		top: 15%;
+	}
+	
+	.tail-tours-about-script {padding: 20px 10px;}
+	
+	.featured-tours { height: 130vh}
+	
+	.featured-tours-header {left: 0px}
+	
+	.featured-heading  {display: none}
+	
+	.featured-heading-2 {display: block}
+	
+	.slogan {
+	color: #F7B733;
+	font-size: 12px;
+	letter-spacing: 1px;}
+	
+	.feature-query img {
+	width:	200px;
+    height: 100px;
+	text-align: center;
+	}
+	
+	.feature-name {
+	font-size: 30px;
+    
+	}
+	
+	.feature-query {	
+	float: none;
+	padding: 50px 10px;
+	padding-top: 50px;	
+	width: 100%;
+   }
+	
+	.description {
+	font-size: 15px;
+	text-align: center;
+	padding: 10px 20px;	
+  }
+	
+	.more-tours-button {
+	left: 30%;	
+	padding: 10px 20px;
+	margin-top: 60px;
+	width: 120px;
+    font-size: 13px;
+    border-width: 0px 0px 0px 0px;
+    border-radius: 0px 0px 0px 0px;	
+    
+   }
+	
+	.zim-button{display: none}
+	
+	footer ul {text-align: center;}
+	footer ul li a {margin: 0 10px;}
+	
+	
+
+}
+
+
+
+
+/* Extra large devices (large desktops)
+ No media query since the extra-large breakpoint has no upper bound on its width*/

@@ -1,0 +1,77 @@
+.navbar {
+	position: fixed;
+}
+.tours-land-page {
+	height: 60vh;
+	color: white;
+	background-image: linear-gradient(rgba(26, 96, 252, 0.49),rgba(12, 44, 8, 0.38) ), url(img/circle-tour.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+
+}
+
+#tours-header {
+	position: relative;
+	color: #fff;
+	font-family: 'Playfair Display', serif;
+	font-weight: 900;
+    width: 35%;
+	left: 35%;
+	text-align: center;
+	font-size: 55px;
+	
+}
+
+.tours-list {
+	margin-top: 100px;
+	padding-top: 80px;
+	box-sizing: border-box;
+}
+.tours-welcome-note {
+	position: relative;
+	width: 70%;
+	left:20%;
+	text-align: center;
+	margin-top: 20px;
+}
+
+.containter {
+	display: grid;
+	grid-template-columns: auto auto auto;
+	width: 80%;
+	position: relative;
+	left: 5%;
+}
+
+.tours-container {
+	background-color: #DFDCE3;
+}
+
+.tour-img {
+	margin: 10px 20px;
+}
+
+.tour {
+ margin: 20px;	
+ height: 500px;
+ padding: 20px 10px;	
+ background-color: rgba(248, 244, 253, 0.68);	
+}
+
+.tour-number {
+	color:#4ABDAC;
+	font-weight: 900;
+	font-size: 25px;
+}
+
+.tour-description {
+	margin-top: 20px;
+	height: 150px;
+}
+
+.rating {
+	color: #FC4A1A;
+	font-weight: 900;
+	white-space: nowrap;
+}

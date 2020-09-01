@@ -1,0 +1,46 @@
+
+body {
+	background-image: linear-gradient(rgba(26, 96, 252, 0.49),rgba(12, 44, 8, 0.38) ), url(img/circle-tour.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+ 
+.navbar {
+	position: fixed;
+}
+
+.about-land-page {
+
+	margin-top: 150px;
+	height: 100vh;	
+}
+
+#who-we-are {
+	position: relative;
+	left:25%;
+	width: 50%;
+	font-size: 50px;
+	top: 25%;
+	text-align: center;
+	color: white;
+}
+
+.about-us {
+	padding: 30px;
+	background-color: #DFDCE3;
+	height: 100vh;
+}
+
+.about-description {
+	margin-top: 30px;
+	text-align: ;
+	width: 80%;
+	position: relative;
+	left: 10%;
+}
+
+.elephant-icon img {
+	position: relative;
+	left: 40%;
+}
